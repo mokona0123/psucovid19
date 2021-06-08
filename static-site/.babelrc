@@ -1,0 +1,11 @@
+{
+    "plugins": [
+      "lodash",
+      "babel-plugin-styled-components"
+    ],
+    "presets": [
+      [
+        "babel-preset-gatsby"
+      ]
+    ]
+}

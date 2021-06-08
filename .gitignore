@@ -1,0 +1,18 @@
+# environment variables
+environment*
+
+# auspice build
+auspice-client/index.html
+auspice-client/dist/
+
+# misc #
+.DS_Store
+node_modules/
+npm-debug.log
+scratch
+
+# local sessions
+/sessions/
+
+# generated data
+/data
